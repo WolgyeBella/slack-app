@@ -1,9 +1,7 @@
-import React from 'react'
+
 
 const MessageHeader = () => {
-  return (
-    <div>MessageHeader</div>
-  )
-}
+  return <div>MessageHeader</div>;
+};
 
-export default MessageHeader
+export default MessageHeader;
