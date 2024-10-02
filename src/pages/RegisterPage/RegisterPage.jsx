@@ -16,7 +16,6 @@ const RegisterPage = () => {
   const auth = getAuth(app);
   const {
     register,
-    watch,
     formState: { errors },
     handleSubmit,
   } = useForm();
